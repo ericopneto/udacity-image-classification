@@ -2,7 +2,7 @@
 
 ## Project 2: Image classification
 
-In this project, I will classify images of the set [CIFAR-10 link] (https://www.cs.toronto.edu/~kriz/cifar.html). This set contains images of airplanes, dogs, cats and other objects. The data needs to be preprocessed, then a convolutional neural network must be trained. It is necessary to normalize the images, make the one-hot encoding of the labels, and assemble the convolutional layers, max pooling and fully connected . At the end, the classifications proposed by the neural network for the images will be presented.
+In this project, I will classify images of the set [CIFAR-10 link](https://www.cs.toronto.edu/~kriz/cifar.html). This set contains images of airplanes, dogs, cats and other objects. The data needs to be preprocessed, then a convolutional neural network must be trained. It is necessary to normalize the images, make the one-hot encoding of the labels, and assemble the convolutional layers, max pooling and fully connected . At the end, the classifications proposed by the neural network for the images will be presented.
 
 ## Running using conda!
 
